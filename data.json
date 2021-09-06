@@ -1,0 +1,27 @@
+{
+"Kalyan": [{
+   
+    "open":{
+        "sutta":{
+            "num":"1",
+            "rupee":"10"
+        },
+        "patti":{
+            "num":"123",
+            "rupee":"250"
+        }
+        
+    },
+    "close":{
+        "sutta":{
+            "num":"1",
+            "rupee":"10"
+        },
+        "patti":{
+            "num":"122",
+            "rupee":"10"
+        }
+    }
+}]
+}
+
